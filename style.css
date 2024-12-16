@@ -1,5 +1,4 @@
 
- /* Dice Section */
  #dice-section {
     margin-top: 30px;
  }
@@ -39,8 +38,6 @@
  button:hover {
     background-color: #9d7bb0;
  }
-
- /* Scorecard Section */
  #scorecard-section {
     margin-top: 30px;
  }
@@ -75,7 +72,7 @@
     background-color: #f9f9f9;
  }
 
- /* Winner Section */
+ 
  #winner-section {
     margin-top: 30px;
     display: none;
@@ -83,7 +80,7 @@
 
  #winner-declaration {
     font-size: 2rem;
-    color: #2c3e50;
+    color: #d7b4f3;
     font-weight: bold;
     margin-top: 20px;
  }
@@ -96,7 +93,7 @@ body {
 
  h1 {
     font-size: 3rem;
-    color: #2c3e50;
+    color: #d7b4f3;
     margin-bottom: 20px;
  }
 
