@@ -1,6 +1,6 @@
 
  #dice-section {
-    margin-top: 30px;
+    margin-top: 20px;
  }
 
  #dice {
@@ -12,11 +12,10 @@
  #dice-sum {
     font-size: 1.5rem;
     color: #7f8c8d;
-    margin-top: 10px;
  }
 
  #dice-actions {
-    margin-top: 20px;
+    margin-top: 10px;
  }
 
  button {
@@ -59,8 +58,7 @@
 
  #scorecard-table th,
  #scorecard-table td {
-    padding: 10px;
-    border: 1px solid #ccc;
+    padding: 5px;
  }
 
  #scorecard-table th {
@@ -107,7 +105,6 @@ body {
     margin-right: 10px;
     width: 150px;
     border-radius: 5px;
-    border: 1px solid #ccc;
  }
 
  #players-section button {
